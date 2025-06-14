@@ -143,4 +143,4 @@ Integration with a GUI using Tkinter or Streamlit for digit input
 Real-time recognition via webcam and OpenCV
 Neural Network / Deep Learning models (CNNs)
 
-
+Handwritten-Digit-recognition-with-MNIST-project .
